@@ -1,7 +1,7 @@
 
 # Devika R
 
-![Profile Image](assets/img/profile.jpg)
+![Profile Image](https://github.com/De-v-ka/Devika.github.io/blob/main/Devika%20R.jpg)
 
 ## Data Science Enthusiast | Data Analyst | Machine Learning Practitioner
 
@@ -23,31 +23,24 @@ Hello! I'm **Devika R**, a passionate data scientist currently pursuing an **Int
 ## Projects
 
 ### Crime Detection
-![Crime Detection](assets/img/crime_detection.jpg)
 Built a machine learning model to detect threatening messages using SMS datasets. Applied SVM, KNN, and Naive Bayes classifiers with text preprocessing techniques to achieve high precision and F1-scores.
 
 ### Emotion Detection from Images
-![Emotion Detection](assets/img/emotion_detection.jpg)
 Developed a CNN-based model using **TensorFlow** and **Keras** to classify facial expressions into seven emotion categories. Enhanced performance through data augmentation and dropout regularization.
 
 ### SMS Spam Classification
-![Spam Classification](assets/img/spam_classification.jpg)
 Implemented an **SVM model** with **TF-IDF vectorization** to classify SMS messages as spam or non-spam. Achieved high accuracy by optimizing the pipeline with stop-word removal and lemmatization.
 
 ### DNS Security and Phishing Detection
-![DNS Security](assets/img/dns_security.jpg)
 Engineered a machine learning solution using **TabNet** for domain threat detection, employing feature engineering, SMOTE oversampling, and ensemble learning methods.
 
 ### Resume Screening Automation
-![Resume Screening](assets/img/resume_screening.jpg)
 Built an NLP model using **TF-IDF** and **KNeighbors Classifier** to automatically categorize resumes into different job categories for streamlined recruitment.
 
 ### **Carpooling in Disaster Response**
-![Carpooling Simulation](assets/img/carpooling_simulation.jpg)
 Developed a **Python-based simulation** for coordinating carpooling in disaster response scenarios, utilizing synthetic data to assign disaster victims to the nearest shelters. Features **spatial clustering, transport grouping, and visualized connections** on a Folium map with a color-coded legend for transport groups.
 
 ### **Agent-Based Social Behavior Simulation**
-![ABM Simulation](assets/img/abm_simulation.jpg)
 Built a **Python-based Agent-Based Model (ABM)** simulating social behavior dynamics in a grid environment, where agents interact and influence each other's states (**Neutral, Social, Antisocial**) over time.
 
 ---
