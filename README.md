@@ -1,9 +1,16 @@
-
 # Devika R
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/De-v-ka/Devika.github.io/main/assets/img/DevikaR.jpg" alt="Profile Image" width="200" style="border-radius: 50%;">
+  <img src="https://raw.githubusercontent.com/De-v-ka/Devika.github.io/main/assets/img/DevikaR.jpg" alt="Profile Image" width="200" class="profile-img">
 </p>
+
+<style>
+  .profile-img {
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+  }
+</style>
 
 ## Data Science Enthusiast | Data Analyst | Machine Learning Practitioner
 
