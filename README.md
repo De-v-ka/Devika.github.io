@@ -1,9 +1,9 @@
 
 # Devika R
 
-![Profile Image](https://raw.githubusercontent.com/De-v-ka/Devika.github.io/main/assets/img/DevikaR.jpg)
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/De-v-ka/Devika.github.io/main/assets/img/DevikaR.jpg" alt="Profile Image" width="200" style="border-radius: 50%;">
+</p>
 
 ## Data Science Enthusiast | Data Analyst | Machine Learning Practitioner
 
@@ -87,6 +87,5 @@ Built a **Python-based Agent-Based Model (ABM)** simulating social behavior dyna
 
 ## 📜 Portfolio
 Check out my full portfolio [here](https://De-v-ka.github.io)
-
 ```
 
