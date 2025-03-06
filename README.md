@@ -1,8 +1,10 @@
 # Devika R
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/De-v-ka/Devika.github.io/main/assets/img/DevikaR.jpg" alt="Profile Image" width="200" class="profile-img">
+p align="center">
+  <img src="https://raw.githubusercontent.com/De-v-ka/Devika.github.io/main/assets/img/DevikaR.jpg" alt="Profile Image" width="200" height="200" style="border-radius: 50%; object-fit: cover; display: block; margin: auto;">
 </p>
+
+
 
 <style>
   .profile-img {
