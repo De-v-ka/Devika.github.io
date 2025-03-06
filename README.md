@@ -1,7 +1,8 @@
 
 # Devika R
 
-![Profile Image](/assets/img/DevikaR.jpg)
+![Profile Image](https://raw.githubusercontent.com/De-v-ka/Devika.github.io/main/assets/img/DevikaR.jpg)
+
 
 
 ## Data Science Enthusiast | Data Analyst | Machine Learning Practitioner
