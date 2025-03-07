@@ -4,7 +4,13 @@
 
 
 
-
+<style>
+  .profile-img {
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+  }
+</style>
 
 ## Data Science Enthusiast | Data Analyst | Machine Learning Practitioner
 
